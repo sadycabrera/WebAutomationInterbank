@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8de215ea-ea67-4746-b587-ea50a566f6a3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1mz8GfTzbToMNPSNMMHDtF5Wbni" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager" selected="Cucumber java.Feature: login">
+    <configuration name="Feature: login" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/login.feature" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="SeleniumPOMSimple" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: login" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/ASUS/Desktop/Projects Automation/WebAutomationInterbank/testng2.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumPOMSimple" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng2.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/ASUS/Desktop/Projects Automation/WebAutomationInterbank/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumPOMSimple" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Runner" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumPOMSimple" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="runner" />
+      <option name="MAIN_CLASS_NAME" value="runner.Runner" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestLoginFactoryHerenciaChrome.testLoginExitoso" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumPOMSimple" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testsFactoryHerencia.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testsFactoryHerencia" />
+      <option name="MAIN_CLASS_NAME" value="testsFactoryHerencia.TestLoginFactoryHerenciaChrome" />
+      <option name="METHOD_NAME" value="testLoginExitoso" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber java.Feature: login" />
+        <item itemvalue="TestNG.Runner" />
+        <item itemvalue="TestNG.C:/Users/ASUS/Desktop/Projects Automation/WebAutomationInterbank/testng.xml" />
+        <item itemvalue="TestNG.TestLoginFactoryHerenciaChrome.testLoginExitoso" />
+        <item itemvalue="TestNG.C:/Users/ASUS/Desktop/Projects Automation/WebAutomationInterbank/testng2.xml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8de215ea-ea67-4746-b587-ea50a566f6a3" name="Default Changelist" comment="" />
+      <created>1610484964589</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610484964589</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="487" y="93" key="#TestLoginFactoryHerenciaChrome" timestamp="1610485313689">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="487" y="93" key="#TestLoginFactoryHerenciaChrome/0.0.1536.824@0.0.1536.824" timestamp="1610485313689" />
+    <state width="1493" height="248" key="GridCell.Tab.0.bottom" timestamp="1610490797188">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="248" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1610490797188" />
+    <state width="1493" height="248" key="GridCell.Tab.0.center" timestamp="1610490797188">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="248" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1610490797188" />
+    <state width="1493" height="248" key="GridCell.Tab.0.left" timestamp="1610490797188">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="248" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1610490797188" />
+    <state width="1493" height="248" key="GridCell.Tab.0.right" timestamp="1610490797188">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="248" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1610490797188" />
+    <state x="299" y="70" key="Maven.ArtifactSearchDialog" timestamp="1610488135751">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="299" y="70" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1610488135751" />
+    <state x="279" y="58" key="SettingsEditor" timestamp="1610486707725">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="279" y="58" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1610486707725" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1610485428681">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1536.824@0.0.1536.824" timestamp="1610485428681" />
+    <state x="473" y="168" width="590" height="488" key="find.popup" timestamp="1610485424414">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="473" y="168" width="590" height="488" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1610485424414" />
+    <state x="193" y="139" key="new project wizard" timestamp="1610485556636">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="193" y="139" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1610485556636" />
+  </component>
+</project>

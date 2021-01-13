@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+
+	<test name="Test Login Fallido">
+		<classes>
+			<class
+				name="tests.TestLoginChrome">
+				<methods>
+					<include name="testLoginFallido" />
+				</methods>
+			</class>
+			<class name="tests.TestLoginEdge">
+				<methods>
+					<include name="testLoginFallido" />
+				</methods>
+			</class>
+			<class
+				name="tests.TestLoginFirefox">
+				<methods>
+					<include name="testLoginFallido" />
+				</methods>
+			</class>
+		</classes>
+	</test>
+	<test name="Test Login Exitoso">
+		<classes>
+			<class
+				name="tests.TestLoginChrome">
+				<methods>
+					<include name="testLoginExitoso" />
+				</methods>
+			</class>
+			<class name="tests.TestLoginEdge">
+				<methods>
+					<include name="testLoginExitoso" />
+				</methods>
+			</class>
+			<class
+				name="tests.TestLoginFirefox">
+				<methods>
+					<include name="testLoginExitoso" />
+				</methods>
+			</class>
+		</classes>
+	</test>
+
+</suite> 
+
