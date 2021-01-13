@@ -1,7 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8de215ea-ea67-4746-b587-ea50a566f6a3" name="Default Changelist" comment="" />
+    <list default="true" id="8de215ea-ea67-4746-b587-ea50a566f6a3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_create_meta_2_0_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_cucumber_core_6_9_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_cucumber_expressions_10_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_cucumber_gherkin_6_9_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_cucumber_gherkin_messages_6_9_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_cucumber_java_6_9_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_cucumber_plugin_6_9_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_cucumber_testng_6_9_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_datatable_3_5_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_docstring_6_9_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_html_formatter_9_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_messages_13_2_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_tag_expressions_3_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SeleniumPOMSimple.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SeleniumPOMSimple.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/BasePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pages/BasePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pages/HomePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/IndexPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pages/IndexPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/LoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pages/LoginPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/TestLogin.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/TestLogin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/TestLoginChrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/TestLoginChrome.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/TestLoginEdge.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/TestLoginEdge.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/TestLoginFirefox.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/TestLoginFirefox.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/utils/Configuracion.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/utils/Configuracion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testngByBrowser.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testngByBrowser.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +42,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1mz8GfTzbToMNPSNMMHDtF5Wbni" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -22,10 +53,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Cucumber java.Feature: login">
+  <component name="RunManager" selected="TestNG.C:/Users/ASUS/Desktop/Projects Automation/WebAutomationInterbank/testngAllBrowsers.xml">
     <configuration name="Feature: login" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/login.feature" />
@@ -43,9 +75,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C:/Users/ASUS/Desktop/Projects Automation/WebAutomationInterbank/testng2.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C:/Users/ASUS/Desktop/Projects Automation/WebAutomationInterbank/testngAllBrowsers.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumPOMSimple" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng2.xml" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testngAllBrowsers.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/ASUS/Desktop/Projects Automation/WebAutomationInterbank/testngByBrowser.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumPOMSimple" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testngByBrowser.xml" />
       <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
@@ -80,31 +122,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestLoginFactoryHerenciaChrome.testLoginExitoso" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="SeleniumPOMSimple" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="testsFactoryHerencia.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="testsFactoryHerencia" />
-      <option name="MAIN_CLASS_NAME" value="testsFactoryHerencia.TestLoginFactoryHerenciaChrome" />
-      <option name="METHOD_NAME" value="testLoginExitoso" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.C:/Users/ASUS/Desktop/Projects Automation/WebAutomationInterbank/testngAllBrowsers.xml" />
+        <item itemvalue="TestNG.C:/Users/ASUS/Desktop/Projects Automation/WebAutomationInterbank/testngByBrowser.xml" />
         <item itemvalue="Cucumber java.Feature: login" />
         <item itemvalue="TestNG.Runner" />
         <item itemvalue="TestNG.C:/Users/ASUS/Desktop/Projects Automation/WebAutomationInterbank/testng.xml" />
-        <item itemvalue="TestNG.TestLoginFactoryHerenciaChrome.testLoginExitoso" />
-        <item itemvalue="TestNG.C:/Users/ASUS/Desktop/Projects Automation/WebAutomationInterbank/testng2.xml" />
       </list>
     </recent_temporary>
   </component>
@@ -121,27 +145,38 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
     <state x="487" y="93" key="#TestLoginFactoryHerenciaChrome" timestamp="1610485313689">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="487" y="93" key="#TestLoginFactoryHerenciaChrome/0.0.1536.824@0.0.1536.824" timestamp="1610485313689" />
-    <state width="1493" height="248" key="GridCell.Tab.0.bottom" timestamp="1610490797188">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1610554165181">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="248" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1610490797188" />
-    <state width="1493" height="248" key="GridCell.Tab.0.center" timestamp="1610490797188">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1610554165181" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1610554165181">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="248" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1610490797188" />
-    <state width="1493" height="248" key="GridCell.Tab.0.left" timestamp="1610490797188">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1610554165181" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1610554165181">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="248" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1610490797188" />
-    <state width="1493" height="248" key="GridCell.Tab.0.right" timestamp="1610490797188">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1610554165181" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1610554165181">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="248" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1610490797188" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1610554165181" />
     <state x="299" y="70" key="Maven.ArtifactSearchDialog" timestamp="1610488135751">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -154,6 +189,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1536.824@0.0.1536.824" timestamp="1610485428681" />
+    <state x="477" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1610553301317">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="477" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1610553301317" />
     <state x="473" y="168" width="590" height="488" key="find.popup" timestamp="1610485424414">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

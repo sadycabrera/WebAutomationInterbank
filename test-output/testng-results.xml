@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="6" total="15" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="131243" started-at="2021-01-13T11:11:04 COT" finished-at="2021-01-13T11:13:15 COT">
+    <groups>
+    </groups>
+    <test name="Test Login Fallido" duration-ms="91751" started-at="2021-01-13T11:11:04 COT" finished-at="2021-01-13T11:12:36 COT">
+      <class name="tests.TestLoginChrome">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:tests.TestLoginChrome@64729b1e]" name="setUp" is-config="true" duration-ms="11004" started-at="2021-01-13T11:11:04 COT" finished-at="2021-01-13T11:11:15 COT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testLoginFallido(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:tests.TestLoginChrome@64729b1e]" name="testLoginFallido" duration-ms="2955" started-at="2021-01-13T11:11:15 COT" data-provider="dataLoginFallido" finished-at="2021-01-13T11:11:18 COT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[prueba0102@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[prueba0103]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Enter your userName and password correct]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginFallido -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:tests.TestLoginChrome@64729b1e]" name="tearDown" is-config="true" duration-ms="1149" started-at="2021-01-13T11:11:18 COT" finished-at="2021-01-13T11:11:19 COT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:tests.TestLoginChrome@64729b1e]" name="setUp" is-config="true" duration-ms="7515" started-at="2021-01-13T11:11:19 COT" finished-at="2021-01-13T11:11:27 COT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testLoginFallido(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:tests.TestLoginChrome@64729b1e]" name="testLoginFallido" duration-ms="1572" started-at="2021-01-13T11:11:27 COT" data-provider="dataLoginFallido" finished-at="2021-01-13T11:11:28 COT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[prueba0102@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[prueba0104]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Enter your userName and password correct]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginFallido -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:tests.TestLoginChrome@64729b1e]" name="tearDown" is-config="true" duration-ms="665" started-at="2021-01-13T11:11:28 COT" finished-at="2021-01-13T11:11:29 COT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.TestLoginChrome -->
+      <class name="tests.TestLoginEdge">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:tests.TestLoginEdge@10bbd20a]" name="setUp" is-config="true" duration-ms="8856" started-at="2021-01-13T11:11:29 COT" finished-at="2021-01-13T11:11:38 COT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testLoginFallido(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:tests.TestLoginEdge@10bbd20a]" name="testLoginFallido" duration-ms="1676" started-at="2021-01-13T11:11:38 COT" data-provider="dataLoginFallido" finished-at="2021-01-13T11:11:40 COT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[prueba0102@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[prueba0103]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Enter your userName and password correct]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginFallido -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:tests.TestLoginEdge@10bbd20a]" name="tearDown" is-config="true" duration-ms="735" started-at="2021-01-13T11:11:40 COT" finished-at="2021-01-13T11:11:40 COT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:tests.TestLoginEdge@10bbd20a]" name="setUp" is-config="true" duration-ms="8798" started-at="2021-01-13T11:11:40 COT" finished-at="2021-01-13T11:11:49 COT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testLoginFallido(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:tests.TestLoginEdge@10bbd20a]" name="testLoginFallido" duration-ms="2042" started-at="2021-01-13T11:11:49 COT" data-provider="dataLoginFallido" finished-at="2021-01-13T11:11:51 COT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[prueba0102@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[prueba0104]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Enter your userName and password correct]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginFallido -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:tests.TestLoginEdge@10bbd20a]" name="tearDown" is-config="true" duration-ms="640" started-at="2021-01-13T11:11:51 COT" finished-at="2021-01-13T11:11:52 COT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.TestLoginEdge -->
+      <class name="tests.TestLoginFirefox">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:tests.TestLoginFirefox@48503868]" name="setUp" is-config="true" duration-ms="12246" started-at="2021-01-13T11:11:52 COT" finished-at="2021-01-13T11:12:04 COT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testLoginFallido(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:tests.TestLoginFirefox@48503868]" name="testLoginFallido" duration-ms="4422" started-at="2021-01-13T11:12:04 COT" data-provider="dataLoginFallido" finished-at="2021-01-13T11:12:08 COT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[prueba0102@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[prueba0103]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Enter your userName and password correct]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginFallido -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:tests.TestLoginFirefox@48503868]" name="tearDown" is-config="true" duration-ms="1452" started-at="2021-01-13T11:12:09 COT" finished-at="2021-01-13T11:12:10 COT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:tests.TestLoginFirefox@48503868]" name="setUp" is-config="true" duration-ms="19999" started-at="2021-01-13T11:12:10 COT" finished-at="2021-01-13T11:12:30 COT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testLoginFallido(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:tests.TestLoginFirefox@48503868]" name="testLoginFallido" duration-ms="2651" started-at="2021-01-13T11:12:30 COT" data-provider="dataLoginFallido" finished-at="2021-01-13T11:12:33 COT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[prueba0102@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[prueba0104]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Enter your userName and password correct]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginFallido -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:tests.TestLoginFirefox@48503868]" name="tearDown" is-config="true" duration-ms="3277" started-at="2021-01-13T11:12:33 COT" finished-at="2021-01-13T11:12:36 COT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.TestLoginFirefox -->
+    </test> <!-- Test Login Fallido -->
+    <test name="Test Login Exitoso" duration-ms="39440" started-at="2021-01-13T11:12:36 COT" finished-at="2021-01-13T11:13:15 COT">
+      <class name="tests.TestLoginChrome">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:tests.TestLoginChrome@5faeada1]" name="setUp" is-config="true" duration-ms="8723" started-at="2021-01-13T11:12:36 COT" finished-at="2021-01-13T11:12:45 COT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testLoginExitoso(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:tests.TestLoginChrome@5faeada1]" name="testLoginExitoso" duration-ms="1363" started-at="2021-01-13T11:12:45 COT" data-provider="dataLoginExitoso" finished-at="2021-01-13T11:12:46 COT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[prueba0102@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[prueba0102]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Login Successfully]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginExitoso -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:tests.TestLoginChrome@5faeada1]" name="tearDown" is-config="true" duration-ms="620" started-at="2021-01-13T11:12:46 COT" finished-at="2021-01-13T11:12:47 COT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.TestLoginChrome -->
+      <class name="tests.TestLoginEdge">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:tests.TestLoginEdge@528931cf]" name="setUp" is-config="true" duration-ms="6645" started-at="2021-01-13T11:12:47 COT" finished-at="2021-01-13T11:12:53 COT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testLoginExitoso(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:tests.TestLoginEdge@528931cf]" name="testLoginExitoso" duration-ms="3565" started-at="2021-01-13T11:12:53 COT" data-provider="dataLoginExitoso" finished-at="2021-01-13T11:12:57 COT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[prueba0102@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[prueba0102]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Login Successfully]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginExitoso -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:tests.TestLoginEdge@528931cf]" name="tearDown" is-config="true" duration-ms="642" started-at="2021-01-13T11:12:57 COT" finished-at="2021-01-13T11:12:57 COT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.TestLoginEdge -->
+      <class name="tests.TestLoginFirefox">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:tests.TestLoginFirefox@ea1a8d5]" name="setUp" is-config="true" duration-ms="11638" started-at="2021-01-13T11:12:58 COT" finished-at="2021-01-13T11:13:09 COT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testLoginExitoso(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:tests.TestLoginFirefox@ea1a8d5]" name="testLoginExitoso" duration-ms="5217" started-at="2021-01-13T11:13:09 COT" data-provider="dataLoginExitoso" finished-at="2021-01-13T11:13:14 COT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[prueba0102@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[prueba0102]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Login Successfully]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginExitoso -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:tests.TestLoginFirefox@ea1a8d5]" name="tearDown" is-config="true" duration-ms="1016" started-at="2021-01-13T11:13:14 COT" finished-at="2021-01-13T11:13:15 COT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.TestLoginFirefox -->
+    </test> <!-- Test Login Exitoso -->
+  </suite> <!-- Suite -->
+</testng-results>

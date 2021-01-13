@@ -24,7 +24,7 @@ public class TestLoginChrome {
 	IndexPage index;
 
 	@BeforeMethod
-	public void setUp(String browser) throws InterruptedException {
+	public void setUp() throws InterruptedException {
 		
 		driver = BasePage.iniciarBrowser(tipoBrowser);
 		BasePage.irPagina(BasePage.URL);
